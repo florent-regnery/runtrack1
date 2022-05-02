@@ -1,0 +1,40 @@
+
+body {
+  background: rgb(25, 118, 131);
+
+}
+
+head { display: flex;
+    justify-content : space-around;}
+
+
+.form{ display: flex;
+  justify-content : left}
+
+
+.form1{ background: rgb(245, 252, 253);}
+
+
+.form2{ display: flex;
+    justify-content : left;
+}
+
+.form3{ display: flex;
+    justify-content : space-evenly
+
+}
+
+.form5{ display: flex;
+    justify-content : center }
+
+h1{
+  text-align: center;
+}
+
+footer{
+    background:rgb(207, 29, 103);
+    text-align: left;
+}
+
+
+
